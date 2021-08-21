@@ -1,4 +1,4 @@
-# geosf21
+# Course Material Repository of the Fall 2021 Course "Geo Data Science with Python"
 
 ## Submitting homework
 
