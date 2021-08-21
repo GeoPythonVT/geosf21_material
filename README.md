@@ -1,4 +1,4 @@
-# Course Material Repository of the Fall 2021 Course "Geo Data Science with Python"
+# Geo Data Science with Python, Fall 2021
 
 ## Submitting homework
 
