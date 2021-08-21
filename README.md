@@ -2,7 +2,7 @@
 
 ## Submitting homework
 
-To submit homework, you need to use 4 commands (ok, really 3, but the first one is a good habit):
+To submit homework, you need to use 4 commands (ok, really 3, but the first one is a good habit), each time you make changes to your home work:
 ```
 git pull
 ## assuming your homwork was saved as HW1_pid.ipynb
