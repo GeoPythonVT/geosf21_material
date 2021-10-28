@@ -1,0 +1,8 @@
+Geo Data Science with Python, Susanna Werth, Fall 2021
+
+This is a text file. The following file types are important:
+
+.txt 	Textfile
+.py  	Python script file
+.ipynb 	Jupyter Notebook file
+
